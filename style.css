@@ -5,13 +5,13 @@
 }
 
 header{
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/image/extra.jpg) ;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/images/extra.jpg) ;
     height: 100vh;
     background-size: cover;
     background-position: center;
 }
 .bg-image {
-  background-image: url('/image/extra.jpg');
+  background-image: url('/images/extra.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
