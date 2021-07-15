@@ -1,4 +1,4 @@
-# Care-and-Share-Foundation
+# Caring and Sharing-Foundation
 
 Web Development and Designing internship at The Sparks Foundation
 
